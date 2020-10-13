@@ -26,8 +26,5 @@ We provided one single test. Anyway, our implementantion is able to read
 
 N.B. frank_wolfe.py assumes <path/to/test> not containing any extensions (neither .dmx nor .qfc)
 
-## Contributors Guidelines
-You're free (and encouraged) to make your own contribution to this project.
-
 # License
 All source code from this project is released under the MIT license.
